@@ -8,9 +8,10 @@
 running `python lotsofmenus.py`.
 3. Finally, go to your web browser and input: `http://localhost:5000`.
 
-* I use Vagrant on my computer, so in your case you want to specify the path
-you stored this project in and then run `vagrant up` followed by `vagrant ssh`
-if you use Vagrant.
+* I use Vagrant, so in your case you want to specify the path you stored this
+project in on the command line. Then run `vagrant up` followed by
+`vagrant ssh`, if you use Vagrant and it is set up in the location of the
+project on your computer.
 
 ##**Sources**##
 
