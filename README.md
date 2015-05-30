@@ -7,7 +7,12 @@
 running `python lotsofmenus.py`.
 3. Finally, go to your web browser and input: `http://localhost:5000`.
 
+* I use Vagrant on my computer, so in your case you want to specify the path
+you stored this project in and then run `vagrant up` followed by `vagrant ssh`
+if you use Vagrant.
+
 ##**Sources**##
 
 1. The opensource Banner Maker that I used to make my banner can be found at:
 `http://bannerfans.com/banner_maker.php`.
+
