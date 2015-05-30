@@ -13,6 +13,6 @@ if you use Vagrant.
 
 ##**Sources**##
 
-1. The opensource Banner Maker that I used to make my banner can be found at:
+1. The opensource banner maker that I used to make my banner can be found at:
 `http://bannerfans.com/banner_maker.php`.
 
