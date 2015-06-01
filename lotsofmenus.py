@@ -29,9 +29,8 @@ session.commit(). If you're not happy about the changes, you can
 revert all of them back to the last commit by calling.
 '''
 
-
-session.rollback()
 session = DBSession()
+session.rollback()
 
 # Create dummy user.
 
