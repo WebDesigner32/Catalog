@@ -51,11 +51,9 @@ Here we have a list of API endpoints used in this project:
 2. Go to your web browser and input: `http://localhost:5000`.
 3. In the top-right of the page for the app, click "Click Here to Log in".
 4. Ignoring Google+ due to my personal login information, log in with fb using
-the following test user info:
+the following test user info to use the app:
 
 Email: developer32@hotmail.com, Password: 5H@!u?k9s#
-
-5. Use the application!
 
 * I use Vagrant, so in your case you want to specify the path you stored this
 project in on the command line. Then run `vagrant up` followed by
