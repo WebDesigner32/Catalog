@@ -17,6 +17,11 @@ This project requires:
 4. SQLAlchemy
 5. Flask 0.10.1
 
+*Additional features from project.py:
+
+1. import random, string
+2. import json
+
 ##**Installation Instructions**##
 
 Assuming you have downloaded the application code, navigate to the directory
