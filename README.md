@@ -53,8 +53,7 @@ Here we have a list of API endpoints used in this project:
 4. Ignoring Google+ due to my personal login information, log in with fb using
 the following test user info:
 
-Email: developer32@hotmail.com
-Password: 5H@!u?k9s#
+Email: developer32@hotmail.com, Password: 5H@!u?k9s#
 
 5. Use the application!
 
