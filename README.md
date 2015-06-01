@@ -51,7 +51,7 @@ following URLs:
 
 ##**How to Run Code**##
 
-1. Run `python project.py` in the appropriate path.*
+1. Run `python project.py` in the appropriate path on the command line.*
 2. Go to your web browser and input: `http://localhost:5000`.
 3. In the top-right of the page for the app, click "Click Here to Log in".
 4. Ignoring Google+ due to my personal login information, log in with fb using
