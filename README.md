@@ -39,16 +39,15 @@ from the following link: http://www.sqlalchemy.org.
 
 ##**Operating Instructions**##
 
-Here we have a list of API endpoints used in this project:
+JSON endpoints are available and they can be accessed by simply visiting the
+following URLs:
 
-1. https://graph.facebook.com/oauth/access_token?grant_type=fb_exchange_token&client_id=%s&client_secret=%s&fb_exchange_token=%s
-2. https://graph.facebook.com/v2.3/me
-3. https://graph.facebook.com/v2.3/me?%s
-4. https://graph.facebook.com/v2.3/me/picture?%s&redirect=0&height=200&width=200
-5. https://graph.facebook.com/%s/permissions/%s
-6. https://www.googleapis.com/oauth2/v1/tokeninfo?access_token=%s
-7. https://www.googleapis.com/oauth2/v1/userinfo
-8. https://accounts.google.com/o/oauth2/revoke?token=%s
+1. `localhost:5000/restaurant/<int:restaurant_id>/menu/JSON`
+(to find a restaurant menu)
+2. `localhost:5000/restaurant/<int:restaurant_id>/menu/<int:menu_id>/JSON`
+(to find a menu item)
+3. `localhost:5000/restaurant/JSON`
+(to find the restaurants)
 
 ##**How to Run Code**##
 
