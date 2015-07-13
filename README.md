@@ -1,5 +1,7 @@
 ##**Landon's Restaurant Menu App**##
 
+![restaurant](https://cloud.githubusercontent.com/assets/10377920/8662637/bb5b9220-2976-11e5-8050-88e5304348c6.png)
+
 ##**Project Goals**##
 
 This project aims to make use of the Flask framework where restaurants are
